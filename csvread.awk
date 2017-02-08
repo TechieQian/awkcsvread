@@ -1,5 +1,6 @@
 #Set delimiter as comma. Load the first line into a fields array, and iterate through each subsequent lines appending each word with the associated field array element. 
 #This is version 1.1
+#lol 
 
 BEGIN{
           FS=","
